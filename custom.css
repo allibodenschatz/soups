@@ -1,0 +1,60 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+
+.title{
+	color: black;
+	font-size: 70px;
+
+}
+
+
+
+h1{
+	color:black;
+	font-size:60px;
+
+
+}
+
+header{
+background-image: url("pictures/firstpic.jpg");}
+	
+  h2{
+  	font-weight:bold;
+
+  }
+
+  
+  #text{ color:black;
+  	size:50px;
+  	
+
+  	
+  }
+#demobox {
+  background-color: #A67B5B;
+  padding: 10px ;
+  border: 2px solid #D2B48C ;
+}
+
+#card1{
+width:46px;
+height:44px;
+text-align: center;
+}
+
+#card2{
+width:46px;
+height:44px;
+text-align: center;
+
+}
+
+#img3{
+	width: 46px;
+	height:5px;
+}
+
+#card3{
+	text-align:center;
+}
